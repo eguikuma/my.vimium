@@ -1,4 +1,4 @@
-# my.vimium
+# play.vimium-theme
 
 ## 概要
 
